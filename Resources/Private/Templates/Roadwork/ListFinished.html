@@ -1,0 +1,34 @@
+{namespace rw=JWeiland\Roadworks\ViewHelpers}
+
+<f:layout name="Default" />
+
+<f:section name="main">
+	<h1><f:translate key="headlineFinished" /></h1>
+
+	<table>
+		<thead>
+		<tr>
+			<th>Baumaßnahme</th>
+			<th>Zeitraum</th>
+		</tr>
+		</thead>
+		<tbody>
+		<f:for each="{roadworks}" as="roadwork">
+			<f:cycle values="{0: 'odd', 1: 'even'}" as="zebraClass">
+				<tr class="tr-{zebraClass}">
+					<td>
+						<b>
+							<f:link.action action="show" pageUid="{settings.pidOfDetailPage}" arguments="{roadwork: roadwork}">{roadwork.description}</f:link.action>
+						</b></br>
+						{roadwork.info}
+					</td>
+					<td>
+						{roadwork.roadworkBegin -> rw:strftime(format: '%b %y')}
+						<f:if condition="{roadwork.roadworkEnd}"> - {roadwork.roadworkEnd -> rw:strftime(format: '%b %y')}</f:if>
+					</td>
+				</tr>
+			</f:cycle>
+		</f:for>
+		</tbody>
+	</table>
+</f:section>

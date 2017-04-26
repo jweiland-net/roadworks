@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks">
+		<header/>
+		<body>
+
+			<trans-unit id="title.description">
+				<source>title of the roadworks</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>the description of the roadworks</source>
+			</trans-unit>
+			<trans-unit id="roadworks_beginn.description">
+				<source>beginn of the roadworks</source>
+			</trans-unit>
+			<trans-unit id="roadworks_end.description">
+				<source>end of the roadworks</source>
+			</trans-unit>
+			<trans-unit id="additional_information.description">
+				<source>additional information of the roadworks</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

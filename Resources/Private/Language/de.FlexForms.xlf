@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks">
+		<header/>
+		<body>
+
+			<trans-unit id="sheetGeneral">
+				<source>General</source>
+				<target>Allgemein</target>
+			</trans-unit>
+
+			<trans-unit id="chooseAction">
+				<source>Choose Action</source>
+				<target>Was soll angezeigt werden?</target>
+			</trans-unit>
+
+			<trans-unit id="actionList">
+				<source>List all roadworks</source>
+				<target>Auflistung aller Baustellen</target>
+			</trans-unit>
+			<trans-unit id="actionListPlanned">
+				<source>List planned roadworks</source>
+				<target>Auflistung geplanter Baustellen</target>
+			</trans-unit>
+			<trans-unit id="actionListFinished">
+				<source>List finished roadworks</source>
+				<target>Auflistung fertig gestellter Baustellen</target>
+			</trans-unit>
+			<trans-unit id="actionListCurrent">
+				<source>List current roadworks</source>
+				<target>Auflistung aktueller Baustellen</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

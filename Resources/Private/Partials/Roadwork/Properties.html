@@ -1,0 +1,48 @@
+{namespace rw=JWeiland\Roadworks\ViewHelpers}
+{namespace maps2=JWeiland\Maps2\ViewHelpers}
+
+<header><h1>{roadwork.description}</h1></header>
+<div class="grid_12 clearer clearfix">
+	<div class="grid_8 floatleft">
+		<div class="gridright">
+			<p><strong>
+				<f:format.html parseFuncTSPath="">{roadwork.info}</f:format.html></strong></p>
+
+			<ul class="extul">
+				<f:groupedFor each="{roadwork.details}" as="groupedDetails" groupBy="placePosition" groupKey="placePosition">
+					<rw:sort subject="{groupedDetails}" as="sortedDetails" sortBy="place">
+						<f:for each="{sortedDetails}" as="detail">
+							<li class="place-{placePosition} extli">
+								<f:if condition="{detail.link}">
+									<f:then>
+										<f:link.external uri="{detail.link}" target="_blank"><f:format.html parseFuncTSPath="">{detail.info}</f:format.html></f:link.external>
+									</f:then>
+									<f:else>
+										<f:format.html parseFuncTSPath="">{detail.info}</f:format.html>
+									</f:else>
+								</f:if>
+							</li>
+						</f:for>
+					</rw:sort>
+				</f:groupedFor>
+			</ul>
+
+			<f:if condition="{roadwork.txMaps2Uid}">
+				<maps2:widget.poiCollection poiCollection="{roadwork.txMaps2Uid}" override="{settings: {mapWidth: '400', mapHeight: '300'}}" />
+			</f:if>
+		</div>
+	</div>
+
+	<div class="grid_4 floatleft">
+		<div class="gridleft clearfix">
+			<div class="csc-frame-frame3">
+				<div class="csc-textpic">
+					<p class="csc-textpic-text">
+						<f:translate key="tx_roadworks_domain_model_roadwork.roadwork_begin"/>:<b> {roadwork.roadworkBegin->f:format.date(format: 'd.m.Y')}</b></br>
+						<f:translate key="tx_roadworks_domain_model_roadwork.roadwork_end"/>:<b> {roadwork.roadworkEnd->f:format.date(format: 'd.m.Y')}</b>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

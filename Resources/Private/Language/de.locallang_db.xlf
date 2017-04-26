@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks">
+		<header/>
+		<body>
+
+			<trans-unit id="plugin.title">
+				<source>Roadworks</source>
+				<target>Baustellen</target>
+			</trans-unit>
+
+			<trans-unit id="tx_roadworks_domain_model_roadwork">
+				<source>Roadwork</source>
+				<target>Baustelle</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.nr">
+				<source>Number</source>
+				<target>Nummer</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.description">
+				<source>Description</source>
+				<target>Beschreibung</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.info">
+				<source>Info</source>
+				<target>Info</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_begin">
+				<source>Roadwork Begin</source>
+				<target>Start der Baustelle</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_end">
+				<source>Roadwork End</source>
+				<target>Ende der Baustelle</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.class">
+				<source>Class</source>
+				<target>Klasse</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.details">
+				<source>Detail informations</source>
+				<target>Detail Informationen</target>
+			</trans-unit>
+
+			<trans-unit id="tx_roadworks_domain_model_detail.identifier">
+				<source>Identifier</source>
+				<target>Bezeichner</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.roadwork">
+				<source>Roadwork</source>
+				<target>Baustelle</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.place">
+				<source>Place</source>
+				<target>Position</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.tooltip">
+				<source>Tooltip</source>
+				<target>Tooltip</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.class">
+				<source>Class</source>
+				<target>Klasse</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.info">
+				<source>Info</source>
+				<target>Info</target>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.link">
+				<source>Link</source>
+				<target>Link</target>
+			</trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,43 @@
+<T3DataStructure>
+	<meta>
+		<langDisable>1</langDisable>
+	</meta>
+	<sheets>
+		<sDEFAULT>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:roadworks/Resources/Private/Language/FlexForms.xlf:sheetGeneral</sheetTitle>
+				</TCEforms>
+				<type>array</type>
+				<el>
+					<switchableControllerActions>
+						<TCEforms>
+							<label>LLL:EXT:roadworks/Resources/Private/Language/FlexForms.xlf:chooseAction</label>
+							<config>
+								<type>select</type>
+								<items>
+									<numIndex index="0">
+										<numIndex index="0">LLL:EXT:roadworks/Resources/Private/Language/FlexForms.xlf:actionList</numIndex>
+										<numIndex index="1"><![CDATA[Roadwork->list;Roadwork->show]]></numIndex>
+									</numIndex>
+									<numIndex index="1">
+										<numIndex index="0">LLL:EXT:roadworks/Resources/Private/Language/FlexForms.xlf:actionListPlanned</numIndex>
+										<numIndex index="1"><![CDATA[Roadwork->listPlanned;Roadwork->show]]></numIndex>
+									</numIndex>
+									<numIndex index="2">
+										<numIndex index="0">LLL:EXT:roadworks/Resources/Private/Language/FlexForms.xlf:actionListFinished</numIndex>
+										<numIndex index="1"><![CDATA[Roadwork->listFinished;Roadwork->show]]></numIndex>
+									</numIndex>
+									<numIndex index="3">
+										<numIndex index="0">LLL:EXT:roadworks/Resources/Private/Language/FlexForms.xlf:actionListCurrent</numIndex>
+										<numIndex index="1"><![CDATA[Roadwork->listCurrent;Roadwork->show]]></numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</switchableControllerActions>
+				</el>
+			</ROOT>
+		</sDEFAULT>
+	</sheets>
+</T3DataStructure>

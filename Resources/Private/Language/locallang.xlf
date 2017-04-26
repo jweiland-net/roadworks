@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_roadworks_domain_model_roadwork">
+				<source>Roadwork</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.nr">
+				<source>Number</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.info">
+				<source>Info</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_begin">
+				<source>Roadwork Begin</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_end">
+				<source>Roadwork End</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.class">
+				<source>Class</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_roadwork.details">
+				<source>Detail informations</source>
+			</trans-unit>
+
+			<trans-unit id="tx_roadworks_domain_model_detail.identifier">
+				<source>Identifier</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.roadwork">
+				<source>Roadwork</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.place">
+				<source>Place</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.tooltip">
+				<source>Tooltip</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.class">
+				<source>Class</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.info">
+				<source>Info</source>
+			</trans-unit>
+			<trans-unit id="tx_roadworks_domain_model_detail.link">
+				<source>Link</source>
+			</trans-unit>
+
+			<trans-unit id="headlineAll">
+				<source>List all roadworks</source>
+			</trans-unit>
+			<trans-unit id="headlinePlanned">
+				<source>List planned roadworks</source>
+			</trans-unit>
+			<trans-unit id="headlineFinished">
+				<source>List finished roadworks</source>
+			</trans-unit>
+			<trans-unit id="headlineCurrent">
+				<source>List current roadworks</source>
+			</trans-unit>
+
+			<trans-unit id="backToList">
+				<source>Back to list</source>
+			</trans-unit>
+			<trans-unit id="project">
+				<source>Project</source>
+			</trans-unit>
+			<trans-unit id="timePeriod">
+				<source>Period of Time</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

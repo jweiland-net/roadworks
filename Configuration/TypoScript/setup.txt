@@ -1,0 +1,29 @@
+plugin.tx_roadworks {
+	view {
+		templateRootPath = {$plugin.tx_roadworks.view.templateRootPath}
+		partialRootPath = {$plugin.tx_roadworks.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_roadworks.view.layoutRootPath}
+	}
+	persistence {
+		storagePid = {$plugin.tx_roadworks.persistence.storagePid}
+	}
+	features {
+		# uncomment the following line to enable the new Property Mapper.
+		rewrittenPropertyMapper = 1
+	}
+	settings {
+		pidOfDetailPage = {$plugin.tx_roadworks.settings.pidOfDetailPage}
+	}
+}
+
+plugin.tx_roadworks._CSS_DEFAULT_STYLE (
+	textarea.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+
+	input.f3-form-error {
+		background-color:#FF9F9F;
+		border: 1px #FF0000 solid;
+	}
+)
