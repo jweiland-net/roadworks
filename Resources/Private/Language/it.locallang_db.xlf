@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="it">
+    <header/>
+    <body>
+      <trans-unit id="plugin.title">
+        <source>Roadworks</source>
+        <target state="needs-translation">Roadworks</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork">
+        <source>Roadwork</source>
+        <target state="needs-translation">Roadwork</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.nr">
+        <source>Number</source>
+        <target state="needs-translation">Number</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.description">
+        <source>Description</source>
+        <target state="needs-translation">Description</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.info">
+        <source>Info</source>
+        <target state="needs-translation">Info</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_begin">
+        <source>Roadwork Begin</source>
+        <target state="needs-translation">Roadwork Begin</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_end">
+        <source>Roadwork End</source>
+        <target state="needs-translation">Roadwork End</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.class">
+        <source>Class</source>
+        <target state="needs-translation">Class</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.details">
+        <source>Detail informations</source>
+        <target state="needs-translation">Detail informations</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.identifier">
+        <source>Identifier</source>
+        <target state="needs-translation">Identifier</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.roadwork">
+        <source>Roadwork</source>
+        <target state="needs-translation">Roadwork</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.place">
+        <source>Place</source>
+        <target state="needs-translation">Place</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.tooltip">
+        <source>Tooltip</source>
+        <target state="needs-translation">Tooltip</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.class">
+        <source>Class</source>
+        <target state="needs-translation">Class</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.info">
+        <source>Info</source>
+        <target state="needs-translation">Info</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.link">
+        <source>Link</source>
+        <target state="needs-translation">Link</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
