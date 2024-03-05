@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <xliff version="1.0">
-  <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="de">
+  <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="ro">
     <header/>
     <body>
-      <trans-unit id="plugin.title">
-        <source>Roadworks</source>
-        <target state="needs-translation">Roadworks</target>
-      </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork">
         <source>Roadwork</source>
         <target state="needs-translation">Roadwork</target>
@@ -66,6 +62,34 @@
       <trans-unit id="tx_roadworks_domain_model_detail.link">
         <source>Link</source>
         <target state="needs-translation">Link</target>
+      </trans-unit>
+      <trans-unit id="headlineAll">
+        <source>List all roadworks</source>
+        <target state="needs-translation">List all roadworks</target>
+      </trans-unit>
+      <trans-unit id="headlinePlanned">
+        <source>List planned roadworks</source>
+        <target state="needs-translation">List planned roadworks</target>
+      </trans-unit>
+      <trans-unit id="headlineFinished">
+        <source>List finished roadworks</source>
+        <target state="needs-translation">List finished roadworks</target>
+      </trans-unit>
+      <trans-unit id="headlineCurrent">
+        <source>List current roadworks</source>
+        <target state="needs-translation">List current roadworks</target>
+      </trans-unit>
+      <trans-unit id="backToList">
+        <source>Back to list</source>
+        <target state="needs-translation">Back to list</target>
+      </trans-unit>
+      <trans-unit id="project">
+        <source>Project</source>
+        <target state="needs-translation">Project</target>
+      </trans-unit>
+      <trans-unit id="timePeriod">
+        <source>Period of Time</source>
+        <target state="needs-translation">Period of Time</target>
       </trans-unit>
     </body>
   </file>
