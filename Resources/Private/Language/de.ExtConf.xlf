@@ -3,9 +3,9 @@
   <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="de">
     <header/>
     <body>
-      <trans-unit id="deleteMailAfterProcessing">
+      <trans-unit id="deleteMailAfterProcessing" approved="yes">
         <source>Delete mail: After import the processed mail will be deleted from INBOX and moved to subfolder "Processed"</source>
-        <target state="needs-translation">Delete mail: After import the processed mail will be deleted from INBOX and moved to subfolder "Processed"</target>
+        <target state="final">E-Mail löschen: Nach dem Import wird die bearbeitete Mail aus INBOX gelöscht und in den Unterordner "Verarbeitet" verschoben</target>
       </trans-unit>
     </body>
   </file>
