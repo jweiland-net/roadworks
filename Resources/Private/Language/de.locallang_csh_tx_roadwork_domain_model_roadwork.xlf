@@ -3,25 +3,25 @@
   <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="de">
     <header/>
     <body>
-      <trans-unit id="title.description">
+      <trans-unit id="title.description" approved="yes">
         <source>title of the roadworks</source>
-        <target state="needs-translation">title of the roadworks</target>
+        <target state="final">Titel der Straßenbauarbeiten</target>
       </trans-unit>
-      <trans-unit id="description.description">
+      <trans-unit id="description.description" approved="yes">
         <source>the description of the roadworks</source>
-        <target state="needs-translation">the description of the roadworks</target>
+        <target state="final">die Beschreibung der Straßenbauarbeiten</target>
       </trans-unit>
-      <trans-unit id="roadworks_beginn.description">
+      <trans-unit id="roadworks_beginn.description" approved="yes">
         <source>beginn of the roadworks</source>
-        <target state="needs-translation">beginn of the roadworks</target>
+        <target state="final">Anfang der Straßenbauarbeiten</target>
       </trans-unit>
-      <trans-unit id="roadworks_end.description">
+      <trans-unit id="roadworks_end.description" approved="yes">
         <source>end of the roadworks</source>
-        <target state="needs-translation">end of the roadworks</target>
+        <target state="final">Ende der Straßenbauarbeiten</target>
       </trans-unit>
-      <trans-unit id="additional_information.description">
+      <trans-unit id="additional_information.description" approved="yes">
         <source>additional information of the roadworks</source>
-        <target state="needs-translation">additional information of the roadworks</target>
+        <target state="final">zusätzliche Informationen über die Straßenbauarbeiten</target>
       </trans-unit>
     </body>
   </file>
