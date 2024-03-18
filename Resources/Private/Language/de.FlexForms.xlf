@@ -3,29 +3,29 @@
   <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="de">
     <header/>
     <body>
-      <trans-unit id="sheetGeneral">
+      <trans-unit id="sheetGeneral" approved="yes">
         <source>General</source>
-        <target state="needs-translation">General</target>
+        <target state="final">Allgemein</target>
       </trans-unit>
-      <trans-unit id="chooseAction">
+      <trans-unit id="chooseAction" approved="yes">
         <source>Choose Action</source>
-        <target state="needs-translation">Choose Action</target>
+        <target state="final">Aktion auswählen</target>
       </trans-unit>
-      <trans-unit id="actionList">
+      <trans-unit id="actionList" approved="yes">
         <source>List all roadworks</source>
-        <target state="needs-translation">List all roadworks</target>
+        <target state="final">Alle Straßenarbeiten auflisten</target>
       </trans-unit>
-      <trans-unit id="actionListPlanned">
+      <trans-unit id="actionListPlanned" approved="yes">
         <source>List planned roadworks</source>
-        <target state="needs-translation">List planned roadworks</target>
+        <target state="final">Geplante Straßen auflisten</target>
       </trans-unit>
-      <trans-unit id="actionListFinished">
+      <trans-unit id="actionListFinished" approved="yes">
         <source>List finished roadworks</source>
-        <target state="needs-translation">List finished roadworks</target>
+        <target state="final">Beendete Straßenarbeiten auflisten</target>
       </trans-unit>
-      <trans-unit id="actionListCurrent">
+      <trans-unit id="actionListCurrent" approved="yes">
         <source>List current roadworks</source>
-        <target state="needs-translation">List current roadworks</target>
+        <target state="final">Aktuelle Straßenarbeiten auflisten</target>
       </trans-unit>
     </body>
   </file>
