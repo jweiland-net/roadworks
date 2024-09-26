@@ -1,35 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks">
-		<header/>
-		<body>
-
-			<trans-unit id="sheetGeneral">
-				<source>General</source>
-				<target>Allgemein</target>
-			</trans-unit>
-
-			<trans-unit id="chooseAction">
-				<source>Choose Action</source>
-				<target>Was soll angezeigt werden?</target>
-			</trans-unit>
-
-			<trans-unit id="actionList">
-				<source>List all roadworks</source>
-				<target>Auflistung aller Baustellen</target>
-			</trans-unit>
-			<trans-unit id="actionListPlanned">
-				<source>List planned roadworks</source>
-				<target>Auflistung geplanter Baustellen</target>
-			</trans-unit>
-			<trans-unit id="actionListFinished">
-				<source>List finished roadworks</source>
-				<target>Auflistung fertig gestellter Baustellen</target>
-			</trans-unit>
-			<trans-unit id="actionListCurrent">
-				<source>List current roadworks</source>
-				<target>Auflistung aktueller Baustellen</target>
-			</trans-unit>
-		</body>
-	</file>
+  <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="de">
+    <header/>
+    <body>
+      <trans-unit id="sheetGeneral" approved="yes">
+        <source>General</source>
+        <target state="final">Allgemein</target>
+      </trans-unit>
+      <trans-unit id="chooseAction" approved="yes">
+        <source>Choose Action</source>
+        <target state="final">Aktion auswählen</target>
+      </trans-unit>
+      <trans-unit id="actionList" approved="yes">
+        <source>List all roadworks</source>
+        <target state="final">Alle Straßenarbeiten auflisten</target>
+      </trans-unit>
+      <trans-unit id="actionListPlanned" approved="yes">
+        <source>List planned roadworks</source>
+        <target state="final">Geplante Straßen auflisten</target>
+      </trans-unit>
+      <trans-unit id="actionListFinished" approved="yes">
+        <source>List finished roadworks</source>
+        <target state="final">Beendete Straßenarbeiten auflisten</target>
+      </trans-unit>
+      <trans-unit id="actionListCurrent" approved="yes">
+        <source>List current roadworks</source>
+        <target state="final">Aktuelle Straßenarbeiten auflisten</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
