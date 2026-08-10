@@ -5,7 +5,7 @@
     <body>
       <trans-unit id="deleteMailAfterProcessing">
         <source>Delete mail: After import the processed mail will be deleted from INBOX and moved to subfolder "Processed"</source>
-        <target state="needs-translation">Delete mail: After import the processed mail will be deleted from INBOX and moved to subfolder "Processed"</target>
+        <target state="translated">Mail törlése: Az importálás után a feldolgozott e-mail törlődik az INBOX-ból, és áthelyeződik a "Processed" almappába</target>
       </trans-unit>
     </body>
   </file>
