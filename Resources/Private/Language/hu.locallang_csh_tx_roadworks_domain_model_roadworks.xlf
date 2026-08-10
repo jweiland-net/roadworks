@@ -5,23 +5,23 @@
     <body>
       <trans-unit id="title.description">
         <source>title of the roadworks</source>
-        <target state="needs-translation">title of the roadworks</target>
+        <target state="translated">az útépítés címe</target>
       </trans-unit>
       <trans-unit id="description.description">
         <source>the description of the roadworks</source>
-        <target state="needs-translation">the description of the roadworks</target>
+        <target state="translated">az útépítés leírása</target>
       </trans-unit>
       <trans-unit id="roadworks_beginn.description">
         <source>beginn of the roadworks</source>
-        <target state="needs-translation">beginn of the roadworks</target>
+        <target state="translated">az útépítés kezdete</target>
       </trans-unit>
       <trans-unit id="roadworks_end.description">
         <source>end of the roadworks</source>
-        <target state="needs-translation">end of the roadworks</target>
+        <target state="translated">az útépítés vége</target>
       </trans-unit>
       <trans-unit id="additional_information.description">
         <source>additional information of the roadworks</source>
-        <target state="needs-translation">additional information of the roadworks</target>
+        <target state="translated">az útépítés további információi</target>
       </trans-unit>
     </body>
   </file>
