@@ -5,27 +5,27 @@
     <body>
       <trans-unit id="sheetGeneral">
         <source>General</source>
-        <target state="needs-translation">General</target>
+        <target state="translated">Általános</target>
       </trans-unit>
       <trans-unit id="chooseAction">
         <source>Choose Action</source>
-        <target state="needs-translation">Choose Action</target>
+        <target state="translated">Művelet kiválasztása</target>
       </trans-unit>
       <trans-unit id="actionList">
         <source>List all roadworks</source>
-        <target state="needs-translation">List all roadworks</target>
+        <target state="translated">Összes útépítés listázása</target>
       </trans-unit>
       <trans-unit id="actionListPlanned">
         <source>List planned roadworks</source>
-        <target state="needs-translation">List planned roadworks</target>
+        <target state="translated">Tervezett útépítések listázása</target>
       </trans-unit>
       <trans-unit id="actionListFinished">
         <source>List finished roadworks</source>
-        <target state="needs-translation">List finished roadworks</target>
+        <target state="translated">Befejezett útépítések listázása</target>
       </trans-unit>
       <trans-unit id="actionListCurrent">
         <source>List current roadworks</source>
-        <target state="needs-translation">List current roadworks</target>
+        <target state="translated">Aktuális útépítések listázása</target>
       </trans-unit>
     </body>
   </file>
