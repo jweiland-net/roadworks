@@ -5,67 +5,67 @@
     <body>
       <trans-unit id="plugin.title">
         <source>Roadworks</source>
-        <target state="needs-translation">Roadworks</target>
+        <target state="translated">Útépítések</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork">
         <source>Roadwork</source>
-        <target state="needs-translation">Roadwork</target>
+        <target state="translated">Útépítés</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork.nr">
         <source>Number</source>
-        <target state="needs-translation">Number</target>
+        <target state="translated">Szám</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork.description">
         <source>Description</source>
-        <target state="needs-translation">Description</target>
+        <target state="translated">Leírás</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork.info">
         <source>Info</source>
-        <target state="needs-translation">Info</target>
+        <target state="translated">Információ</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_begin">
         <source>Roadwork Begin</source>
-        <target state="needs-translation">Roadwork Begin</target>
+        <target state="translated">Útépítés kezdete</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_end">
         <source>Roadwork End</source>
-        <target state="needs-translation">Roadwork End</target>
+        <target state="translated">Útépítés vége</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork.class">
         <source>Class</source>
-        <target state="needs-translation">Class</target>
+        <target state="translated">Osztály</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_roadwork.details">
         <source>Detail informations</source>
-        <target state="needs-translation">Detail informations</target>
+        <target state="translated">Részletes információk</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_detail.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Azonosító</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_detail.roadwork">
         <source>Roadwork</source>
-        <target state="needs-translation">Roadwork</target>
+        <target state="translated">Útépítés</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_detail.place">
         <source>Place</source>
-        <target state="needs-translation">Place</target>
+        <target state="translated">Helyszín</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_detail.tooltip">
         <source>Tooltip</source>
-        <target state="needs-translation">Tooltip</target>
+        <target state="translated">Tooltip</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_detail.class">
         <source>Class</source>
-        <target state="needs-translation">Class</target>
+        <target state="translated">Osztály</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_detail.info">
         <source>Info</source>
-        <target state="needs-translation">Info</target>
+        <target state="translated">Információ</target>
       </trans-unit>
       <trans-unit id="tx_roadworks_domain_model_detail.link">
         <source>Link</source>
-        <target state="needs-translation">Link</target>
+        <target state="translated">Hivatkozás</target>
       </trans-unit>
     </body>
   </file>
