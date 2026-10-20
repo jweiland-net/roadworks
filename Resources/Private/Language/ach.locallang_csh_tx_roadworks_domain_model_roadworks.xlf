@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="ach">
+    <header/>
+    <body>
+      <trans-unit id="title.description">
+        <source>title of the roadworks</source>
+        <target>crwdns309380:0crwdne309380:0</target>
+      </trans-unit>
+      <trans-unit id="description.description">
+        <source>the description of the roadworks</source>
+        <target>crwdns309382:0crwdne309382:0</target>
+      </trans-unit>
+      <trans-unit id="roadworks_beginn.description">
+        <source>beginn of the roadworks</source>
+        <target>crwdns309384:0crwdne309384:0</target>
+      </trans-unit>
+      <trans-unit id="roadworks_end.description">
+        <source>end of the roadworks</source>
+        <target>crwdns309386:0crwdne309386:0</target>
+      </trans-unit>
+      <trans-unit id="additional_information.description">
+        <source>additional information of the roadworks</source>
+        <target>crwdns309388:0crwdne309388:0</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
