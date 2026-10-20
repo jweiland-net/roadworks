@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="t3">
+    <header/>
+    <body>
+      <trans-unit id="plugin.title">
+        <source>Roadworks</source>
+        <target>crwdns309390:0crwdne309390:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork">
+        <source>Roadwork</source>
+        <target>crwdns309392:0crwdne309392:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.nr">
+        <source>Number</source>
+        <target>crwdns309394:0crwdne309394:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.description">
+        <source>Description</source>
+        <target>crwdns309396:0crwdne309396:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.info">
+        <source>Info</source>
+        <target>crwdns309398:0crwdne309398:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_begin">
+        <source>Roadwork Begin</source>
+        <target>crwdns309400:0crwdne309400:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_end">
+        <source>Roadwork End</source>
+        <target>crwdns309402:0crwdne309402:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.class">
+        <source>Class</source>
+        <target>crwdns309404:0crwdne309404:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.details">
+        <source>Detail informations</source>
+        <target>crwdns309406:0crwdne309406:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.identifier">
+        <source>Identifier</source>
+        <target>crwdns309408:0crwdne309408:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.roadwork">
+        <source>Roadwork</source>
+        <target>crwdns309410:0crwdne309410:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.place">
+        <source>Place</source>
+        <target>crwdns309412:0crwdne309412:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.tooltip">
+        <source>Tooltip</source>
+        <target>crwdns309414:0crwdne309414:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.class">
+        <source>Class</source>
+        <target>crwdns309416:0crwdne309416:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.info">
+        <source>Info</source>
+        <target>crwdns309418:0crwdne309418:0</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.link">
+        <source>Link</source>
+        <target>crwdns309420:0crwdne309420:0</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
