@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="t3">
+    <header/>
+    <body>
+      <trans-unit id="sheetGeneral">
+        <source>General</source>
+        <target>crwdns309314:0crwdne309314:0</target>
+      </trans-unit>
+      <trans-unit id="chooseAction">
+        <source>Choose Action</source>
+        <target>crwdns309316:0crwdne309316:0</target>
+      </trans-unit>
+      <trans-unit id="actionList">
+        <source>List all roadworks</source>
+        <target>crwdns309318:0crwdne309318:0</target>
+      </trans-unit>
+      <trans-unit id="actionListPlanned">
+        <source>List planned roadworks</source>
+        <target>crwdns309320:0crwdne309320:0</target>
+      </trans-unit>
+      <trans-unit id="actionListFinished">
+        <source>List finished roadworks</source>
+        <target>crwdns309322:0crwdne309322:0</target>
+      </trans-unit>
+      <trans-unit id="actionListCurrent">
+        <source>List current roadworks</source>
+        <target>crwdns309324:0crwdne309324:0</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

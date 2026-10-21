@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2013-01-24T12:41:24Z" product-name="roadworks" target-language="hu">
+    <header/>
+    <body>
+      <trans-unit id="tx_roadworks_domain_model_roadwork">
+        <source>Roadwork</source>
+        <target state="translated">Útépítés</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.nr">
+        <source>Number</source>
+        <target state="translated">Szám</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.description">
+        <source>Description</source>
+        <target state="translated">Leírás</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.info">
+        <source>Info</source>
+        <target state="translated">Információ</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_begin">
+        <source>Roadwork Begin</source>
+        <target state="translated">Útépítés kezdete</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.roadwork_end">
+        <source>Roadwork End</source>
+        <target state="translated">Útépítés vége</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.class">
+        <source>Class</source>
+        <target state="translated">Osztály</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_roadwork.details">
+        <source>Detail informations</source>
+        <target state="translated">Részletes információk</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.identifier">
+        <source>Identifier</source>
+        <target state="translated">Azonosító</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.roadwork">
+        <source>Roadwork</source>
+        <target state="translated">Útépítés</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.place">
+        <source>Place</source>
+        <target state="translated">Helyszín</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.tooltip">
+        <source>Tooltip</source>
+        <target state="translated">Tooltip</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.class">
+        <source>Class</source>
+        <target state="translated">Osztály</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.info">
+        <source>Info</source>
+        <target state="translated">Információ</target>
+      </trans-unit>
+      <trans-unit id="tx_roadworks_domain_model_detail.link">
+        <source>Link</source>
+        <target state="translated">Hivatkozás</target>
+      </trans-unit>
+      <trans-unit id="headlineAll">
+        <source>List all roadworks</source>
+        <target state="translated">Összes útépítés listázása</target>
+      </trans-unit>
+      <trans-unit id="headlinePlanned">
+        <source>List planned roadworks</source>
+        <target state="translated">Tervezett útépítések listázása</target>
+      </trans-unit>
+      <trans-unit id="headlineFinished">
+        <source>List finished roadworks</source>
+        <target state="translated">Befejezett útépítések listázása</target>
+      </trans-unit>
+      <trans-unit id="headlineCurrent">
+        <source>List current roadworks</source>
+        <target state="translated">Aktuális útépítések listázása</target>
+      </trans-unit>
+      <trans-unit id="backToList">
+        <source>Back to list</source>
+        <target state="translated">Vissza a listához</target>
+      </trans-unit>
+      <trans-unit id="project">
+        <source>Project</source>
+        <target state="translated">Projekt</target>
+      </trans-unit>
+      <trans-unit id="timePeriod">
+        <source>Period of Time</source>
+        <target state="translated">Időszak</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
